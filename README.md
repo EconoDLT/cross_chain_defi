@@ -1,0 +1,2 @@
+# cross_chain_defi
+The repository contains all project files and materials of a PhD project that focuses on the financial interactions in the cross-chain landscape and decentralized finance.
